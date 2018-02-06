@@ -7,4 +7,4 @@ mkdir deployment
 echo "Deployment folder created. Touching file"
 touch deployment/the_file.txt
 echo "File touched. Writing contents"
-echo "This is the big deployment here!" > deployment/the_file.txt
+echo "This is the big deployment here!" >> deployment/the_file.txt
