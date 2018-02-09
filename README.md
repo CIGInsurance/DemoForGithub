@@ -10,6 +10,9 @@ Sign up at: [Github](https://www.github.com)
 #### Get Git
 [Git for Windows](https://git-scm.com/download/win)
 
+#### Get the UI
+SourceTree from Atlassian: [Recommended GUI](https://www.sourcetreeapp.com/) 
+
 ## Resources
 Resources for this workshop can be found here. These are not a prerequisite for the workshop, but will assist with a deeper understanding of why the workflow is the way that it is. They will also provide some additional help for setting up this workflow for your team.
 
