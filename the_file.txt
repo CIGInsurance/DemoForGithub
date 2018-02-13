@@ -1,2 +1,3 @@
 Here is the deployment
 . The bug was fixed
+This is my new hotfix. I hope that it solves the problem!
